@@ -1,2 +1,2 @@
-# repo.gencer
+# repo
 By Gencer Repository
