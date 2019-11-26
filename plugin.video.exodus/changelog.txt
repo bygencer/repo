@@ -1,3 +1,0 @@
-Exodus Changelog:
-8.2.8
-- Fixed TV shows

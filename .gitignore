@@ -3,13 +3,10 @@
 *.cookies
 *.DS_Store
 temp/*
-script.module.resolveurl/resources/settings.xml
+script.module.urlresolver/resources/settings.xml
 doc/build
 doc/resources
 .project
 .pydevproject
-.settings
-.idea
-*~
-nano.save
-.vscode
+/.settings
+/.idea
