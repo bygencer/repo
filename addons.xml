@@ -24,6 +24,21 @@
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
+
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Bu Addons Çakır tarafından By Gencer Telegram Grubu için Hazırlanmıştır</summary>
+        <description>
+        
+1. İzinsiz kopyalanmaz ve çoğaltılamaz,
+2. Her türlü bilgi ve paylaşım için Telegram grubumuza üye olunuz.
+3. Telegram grubu Adresimiz https://t.me/joinchat/IwluMg60IHDN_Me6JU9XPw
+4. Youtube Adresimiz https://www.youtube.com/channel/UCqAJIWz6IDrh7jdwFzY-jcQ             
+    </description>
+<disclaimer> İzinsiz kopyalanmaz ve çoğaltılamaz, </disclaimer>
+
+    <platform>all</platform>
+  </extension>
 </addon>
 
 <addon id="script.module.js2py" name="js2py" version="0.6.6" provider-name="Addons4Kodi">

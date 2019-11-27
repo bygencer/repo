@@ -14,7 +14,7 @@
     <import addon="plugin.video.youtube" optional="true" />
 	<import addon="plugin.video.f4mTester" optional="true" />
     <import addon="script.module.resolveurl" optional="true"/>
-	    <import addon="script.video.F4mProxy" optional="true"/>
+	<import addon="script.video.F4mProxy" optional="true"/>
     <import addon="script.module.simplejson" />    
     <import addon="script.module.livestreamer" optional="true"/>
     <import addon="script.module.slproxy" optional="true"/>
