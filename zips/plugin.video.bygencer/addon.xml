@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.bygencer"
+       name="[B][COLORred]ByGencer Addons[/COLOR][/B]"
+       version="1.0.3"
+       provider-name="ÇakıR">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+	<import addon="plugin.video.f4mTester" optional="true" />
+    <import addon="script.module.resolveurl" optional="true"/>
+	    <import addon="script.video.F4mProxy" optional="true"/>
+    <import addon="script.module.simplejson" />    
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Bu Addons Çakır tarafından By Gencer Telegram Grubu için Hazırlanmıştır</summary>
+        <description>
+        
+1. İzinsiz kopyalanmaz ve çoğaltılamaz,
+2. Her türlü bilgi ve paylaşım için Telegram grubumuza üye olunuz.
+3. Telegram grubu Adresimiz https://t.me/joinchat/IwluMg60IHDN_Me6JU9XPw
+4. Youtube Adresimiz https://www.youtube.com/channel/UCqAJIWz6IDrh7jdwFzY-jcQ             
+    </description>
+<disclaimer> İzinsiz kopyalanmaz ve çoğaltılamaz, </disclaimer>
+
+    <platform>all</platform>
+  </extension>
+</addon>
