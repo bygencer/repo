@@ -342,15 +342,15 @@
     </extension>
 </addon>
 
-<addon id="repository.tva.common" name="TVADDONS.CO Resolvers Repository" version="2.0.0" provider-name="tvaddons">
-    <extension point="xbmc.addon.repository" name="TVADDONS.CO Resolvers Repository">
+<addon id="repository.cakir" name="Cakir Repository" version="1.0" provider-name="Çakır">
+    <extension point="xbmc.addon.repository" name="Cakir Repository">
 		<info compressed="false">https://raw.githubusercontent.com/bygencer/repository.bygencer/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/bygencer/repository.bygencer/master/addons.xml.md5</checksum>
         <datadir zip="true">https://github.com/bygencer/repository.bygencer/tree/master/zips</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Unofficial Resolvers for the Kodi Media Center</summary>
-        <description>Unofficial Resolvers for the Kodi Media Center. Please visit www.tvaddons.co for support!</description>
+        <summary>Çakır Repository</summary>
+        <description>Kodi ve vevoo için gerekli eklentilerin yer aldığı veri merkezi</description>
         <platform>all</platform>
     </extension>
 </addon>
